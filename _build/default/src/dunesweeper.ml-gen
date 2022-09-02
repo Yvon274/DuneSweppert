@@ -1,0 +1,22 @@
+(** @canonical Dunesweeper.Advanced_logic *)
+module Advanced_logic = Dunesweeper__Advanced_logic
+
+
+(** @canonical Dunesweeper.Authors *)
+module Authors = Dunesweeper__Authors
+
+
+(** @canonical Dunesweeper.Basic_logic *)
+module Basic_logic = Dunesweeper__Basic_logic
+
+
+(** @canonical Dunesweeper.Command *)
+module Command = Dunesweeper__Command
+
+
+(** @canonical Dunesweeper.Grid *)
+module Grid = Dunesweeper__Grid
+
+
+(** @canonical Dunesweeper.Map_gen *)
+module Map_gen = Dunesweeper__Map_gen

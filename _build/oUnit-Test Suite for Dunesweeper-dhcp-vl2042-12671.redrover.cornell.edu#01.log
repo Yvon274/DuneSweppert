@@ -1,0 +1,24 @@
+2021-11-03T02:20:52+00:00 dhcp-vl2042-12671.redrover.cornell.edu#01 I: Start test Test Suite for Dunesweeper:0:0,0 is a valid coordinate.
+2021-11-03T02:20:52+00:00 dhcp-vl2042-12671.redrover.cornell.edu#01 I: Test Test Suite for Dunesweeper:0:0,0 is a valid coordinate is successful.
+2021-11-03T02:20:52+00:00 dhcp-vl2042-12671.redrover.cornell.edu#01 I: End test Test Suite for Dunesweeper:0:0,0 is a valid coordinate.
+2021-11-03T02:20:52+00:00 dhcp-vl2042-12671.redrover.cornell.edu#01 I: Start test Test Suite for Dunesweeper:2:0,2 is a valid coordinate.
+2021-11-03T02:20:52+00:00 dhcp-vl2042-12671.redrover.cornell.edu#01 I: Test Test Suite for Dunesweeper:2:0,2 is a valid coordinate is successful.
+2021-11-03T02:20:52+00:00 dhcp-vl2042-12671.redrover.cornell.edu#01 I: End test Test Suite for Dunesweeper:2:0,2 is a valid coordinate.
+2021-11-03T02:20:52+00:00 dhcp-vl2042-12671.redrover.cornell.edu#01 I: Start test Test Suite for Dunesweeper:4:1,4 is a valid coordinate.
+2021-11-03T02:20:52+00:00 dhcp-vl2042-12671.redrover.cornell.edu#01 I: Test Test Suite for Dunesweeper:4:1,4 is a valid coordinate is successful.
+2021-11-03T02:20:52+00:00 dhcp-vl2042-12671.redrover.cornell.edu#01 I: End test Test Suite for Dunesweeper:4:1,4 is a valid coordinate.
+2021-11-03T02:20:52+00:00 dhcp-vl2042-12671.redrover.cornell.edu#01 I: Start test Test Suite for Dunesweeper:6:2,0 is a valid coordinate.
+2021-11-03T02:20:52+00:00 dhcp-vl2042-12671.redrover.cornell.edu#01 I: Test Test Suite for Dunesweeper:6:2,0 is a valid coordinate is successful.
+2021-11-03T02:20:52+00:00 dhcp-vl2042-12671.redrover.cornell.edu#01 I: End test Test Suite for Dunesweeper:6:2,0 is a valid coordinate.
+2021-11-03T02:20:52+00:00 dhcp-vl2042-12671.redrover.cornell.edu#01 I: Start test Test Suite for Dunesweeper:9:0,3 is an invalid coordinate.
+2021-11-03T02:20:52+00:00 dhcp-vl2042-12671.redrover.cornell.edu#01 I: Test Test Suite for Dunesweeper:9:0,3 is an invalid coordinate is successful.
+2021-11-03T02:20:52+00:00 dhcp-vl2042-12671.redrover.cornell.edu#01 I: End test Test Suite for Dunesweeper:9:0,3 is an invalid coordinate.
+2021-11-03T02:20:52+00:00 dhcp-vl2042-12671.redrover.cornell.edu#01 I: Start test Test Suite for Dunesweeper:11:0,-1 is an invalid coordinate.
+2021-11-03T02:20:52+00:00 dhcp-vl2042-12671.redrover.cornell.edu#01 I: Test Test Suite for Dunesweeper:11:0,-1 is an invalid coordinate is successful.
+2021-11-03T02:20:52+00:00 dhcp-vl2042-12671.redrover.cornell.edu#01 I: End test Test Suite for Dunesweeper:11:0,-1 is an invalid coordinate.
+2021-11-03T02:20:52+00:00 dhcp-vl2042-12671.redrover.cornell.edu#01 I: Start test Test Suite for Dunesweeper:13:3,0 is an invalid coordinate.
+2021-11-03T02:20:52+00:00 dhcp-vl2042-12671.redrover.cornell.edu#01 I: Test Test Suite for Dunesweeper:13:3,0 is an invalid coordinate is successful.
+2021-11-03T02:20:52+00:00 dhcp-vl2042-12671.redrover.cornell.edu#01 I: End test Test Suite for Dunesweeper:13:3,0 is an invalid coordinate.
+2021-11-03T02:20:52+00:00 dhcp-vl2042-12671.redrover.cornell.edu#01 I: Start test Test Suite for Dunesweeper:15:true is grid_gen 2 2.
+2021-11-03T02:20:52+00:00 dhcp-vl2042-12671.redrover.cornell.edu#01 I: Test Test Suite for Dunesweeper:15:true is grid_gen 2 2 is successful.
+2021-11-03T02:20:52+00:00 dhcp-vl2042-12671.redrover.cornell.edu#01 I: End test Test Suite for Dunesweeper:15:true is grid_gen 2 2.

@@ -1,0 +1,6 @@
+description = ""
+requires = "ANSITerminal"
+archive(byte) = "dunesweeper.cma"
+archive(native) = "dunesweeper.cmxa"
+plugin(byte) = "dunesweeper.cma"
+plugin(native) = "dunesweeper.cmxs"
